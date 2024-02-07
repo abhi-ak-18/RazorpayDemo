@@ -1,3 +1,3 @@
 ##Demo
 
-<img src="./screenshots/1.jpg" width=30%>
+<img src="./demo/ezgif-7-05a4341602.gif" width=30%>
